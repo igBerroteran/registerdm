@@ -1,0 +1,11 @@
+{
+  "description": "My Portfolio",
+  "repo": "https://github.com/amuhajirs/amuhajirs.github.io",
+  "owner": {
+    "username": "igberro",
+    "email": "berroteranig@gmail.com"
+  },
+  "record": {
+    "CNAME": "https://nextjs-boilerplate-mu-sooty-16.vercel.app/"
+  }
+}
